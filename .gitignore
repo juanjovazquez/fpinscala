@@ -10,3 +10,7 @@ project.vim
 .project
 .classpath
 .metadata/
+
+.ensime
+.ensime_cache
+*.log
